@@ -7,7 +7,8 @@ https://norvig.com/lispy2.html
 Why learning compilers is important:
 https://steve-yegge.blogspot.com/2007/06/rich-programmer-food.html
 - phases of compilers
- 1. parsing: text -> syntax tree
+ 1. parsing: text -> abstract syntax tree (AST)
+    - text -> |lexical analysis| -> tokens -> |syntactoc analysis| -> AST
  2. type checking/determination
  3. code gneeration (compiling)
 
