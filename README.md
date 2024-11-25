@@ -23,3 +23,9 @@ https://norvig.com/lispy.html
 
 https://ocw.mit.edu/courses/6-004-computation-structures-spring-2017/pages/c11/c11s1/
 ![image](https://github.com/user-attachments/assets/eb02d912-f67b-4bc7-920d-b27324b239cf)
+
+
+
+
+
+Make a Lisp in 11 incremental, self-contained, testable steps -> https://github.com/kanaka/mal
