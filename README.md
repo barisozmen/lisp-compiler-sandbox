@@ -10,7 +10,8 @@ https://steve-yegge.blogspot.com/2007/06/rich-programmer-food.html
  1. parsing: text -> abstract syntax tree (AST)
     - text -> |lexical analysis| -> tokens -> |syntactoc analysis| -> AST
  2. type checking/determination
- 3. code gneeration (compiling)
+ 3. code geneeration (compiling)
+    - generation of the lower level instructions/code
 
 
 https://norvig.com/lispy.html
