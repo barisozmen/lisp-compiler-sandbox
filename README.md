@@ -19,3 +19,7 @@ https://norvig.com/lispy.html
 - Python: 33 keywords + 110 syntactic forms
 - Java: 50 keywrods + 133 syntactic forms
 
+
+
+https://ocw.mit.edu/courses/6-004-computation-structures-spring-2017/pages/c11/c11s1/
+![image](https://github.com/user-attachments/assets/eb02d912-f67b-4bc7-920d-b27324b239cf)
