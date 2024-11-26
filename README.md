@@ -31,6 +31,8 @@ https://ocw.mit.edu/courses/6-004-computation-structures-spring-2017/pages/c11/c
 
 David Beazley's Compilers Course - https://www.dabeaz.com/compiler.html
 - He recommendeds Robert Nystrom's [Crafting Interpreters] book
+    - ![image](https://github.com/user-attachments/assets/8d28fcdb-a023-4bb1-86e9-838cdf3a7e6f)
+
 - His talk on parsing tools - [video](https://www.youtube.com/watch?v=zJ9z6Ge-vXs)
 - ![image](https://github.com/user-attachments/assets/14c96428-f601-45e7-baec-ae0d01cdd515)
 
