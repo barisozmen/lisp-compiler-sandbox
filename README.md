@@ -1,5 +1,6 @@
 # lisp-compiler-sandbox
-Lisp dialects in Python
+
+Resources
 
 https://norvig.com/lispy.html
 https://norvig.com/lispy2.html
@@ -27,3 +28,43 @@ https://ocw.mit.edu/courses/6-004-computation-structures-spring-2017/pages/c11/c
 ![image](https://github.com/user-attachments/assets/f3772667-7ae7-4938-93cd-56f7a9abdbdc)
 
 
+
+David Beazley's Compilers Course - https://www.dabeaz.com/compiler.html
+- He recommendeds Robert Nystrom's [Crafting Interpreters] book
+- His talk on parsing tools - [video](https://www.youtube.com/watch?v=zJ9z6Ge-vXs)
+- ![image](https://github.com/user-attachments/assets/14c96428-f601-45e7-baec-ae0d01cdd515)
+
+
+**Explain me the Tree-Walking Interpreter?**
+gpt-4o answer:
+Process of a Tree-Walking Interpreter
+
+ 1 L**exing/Scanning:** The source code is processed to convert it into tokens. This step involves breaking down the input text
+   into meaningful components, such as keywords, operators, literals, and identifiers.
+
+ 2 **Parsing:** The tokens are parsed to create an Abstract Syntax Tree (AST). The AST is a tree representation of the
+   hierarchical syntactic structure of the source code. Nodes in the tree represent constructs in the language such as
+   expressions, statements, or declarations.
+
+ 3 **Interpreting (Tree Walking):** The interpreter traverses the AST, visiting each node to evaluate and execute it. This
+   traversal is typically recursive, with different actions taken depending on the type of each node. For example:
+
+ • Literal Nodes: Directly return a value
+ 
+ • Expression Nodes: Evaluate arithmetic operations, variables, etc.
+
+ • Control Flow Nodes: Handle branching (if statements) and loops (while, for).
+
+ • Function Call Nodes: Execute functions, possibly involving further traversal of the tree for arguments and function
+   bodies.
+
+
+
+## History of Lisp and Scheme
+source: https://norvig.com/lispy2.html
+![image](https://github.com/user-attachments/assets/523454ea-d752-43e2-be5d-9a84e154c60a)
+- Alonzo Church, 1932, Lambda Calculus
+- John McCarthy, 1958, Lisp paper
+- Steve Russell, 1959, Lisp implementation
+- Guy Steele, 1975, Scheme
+- Gerald Jay Sussman, 1975, Scheme
