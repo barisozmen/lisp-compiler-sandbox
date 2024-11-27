@@ -65,11 +65,11 @@ Process of a Tree-Walking Interpreter
 ## History of Lisp and Scheme
 source: https://norvig.com/lispy2.html
 ![image](https://github.com/user-attachments/assets/523454ea-d752-43e2-be5d-9a84e154c60a)
-- Alonzo Church, 1932, Lambda Calculus
-- John McCarthy, 1958, Lisp paper
-- Steve Russell, 1959, Lisp implementation
-- Guy Steele, 1975, Scheme
-- Gerald Jay Sussman, 1975, Scheme
+- 1932, Alonzo Church, Lambda Calculus
+- 1958, John McCarthy, Lisp paper
+- 1959, Steve Russell, Lisp implementation
+- 1975, Guy Steele, Scheme
+- 1975, Gerald Jay Sussman, Scheme
 
 ## Relevant
 geohot writing Scheme in Haskell
