@@ -70,3 +70,9 @@ source: https://norvig.com/lispy2.html
 - Steve Russell, 1959, Lisp implementation
 - Guy Steele, 1975, Scheme
 - Gerald Jay Sussman, 1975, Scheme
+
+## Relevant
+geohot writing Scheme in Haskell
+- live session: https://www.youtube.com/watch?v=5QsC_VeYL4g
+- end result: https://github.com/geohot/haskell-scheme
+- following the book https://en.wikibooks.org/wiki/Write_Yourself_a_Scheme_in_48_Hours/First_Steps
