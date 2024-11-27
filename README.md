@@ -73,6 +73,6 @@ source: https://norvig.com/lispy2.html
 
 ## Relevant
 geohot writing Scheme in Haskell
-- live session: https://www.youtube.com/watch?v=5QsC_VeYL4g
+- live sessions: [part 1](https://www.youtube.com/watch?v=5QsC_VeYL4g) + [part 2](https://www.youtube.com/watch?v=DJSyCHlry7Y) + [part 3](https://www.youtube.com/watch?v=JMXzoB0-vQo)
 - end result: https://github.com/geohot/haskell-scheme
 - following the book https://en.wikibooks.org/wiki/Write_Yourself_a_Scheme_in_48_Hours/First_Steps
