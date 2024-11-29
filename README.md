@@ -76,3 +76,10 @@ geohot writing Scheme in Haskell
 - live sessions: [part 1](https://www.youtube.com/watch?v=5QsC_VeYL4g) + [part 2](https://www.youtube.com/watch?v=DJSyCHlry7Y) + [part 3](https://www.youtube.com/watch?v=JMXzoB0-vQo)
 - end result: https://github.com/geohot/haskell-scheme
 - following the book https://en.wikibooks.org/wiki/Write_Yourself_a_Scheme_in_48_Hours/First_Steps
+
+Brian Kernighan on successful language design ([youtube](https://www.youtube.com/watch?v=Sg4U4r_AgJU))
+- ![image](https://github.com/user-attachments/assets/fb34f313-0994-4b34-b14d-112b01b09839)
+- ![image](https://github.com/user-attachments/assets/3e8a3e00-8ad6-4c47-abea-923eb87ba289)
+
+
+
